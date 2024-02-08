@@ -1,4 +1,4 @@
-export const menu = [
+export const  menu = [
     {
         id: 1,
         title: "Tteokbokki",
@@ -7,6 +7,7 @@ export const menu = [
         img: "https://twoplaidaprons.com/wp-content/uploads/2020/09/tteokbokki-top-down-view-of-tteokbokki-in-a-bowl-500x500.jpg",
         desc: `Spicy rice cakes, serving with fish cake.`,
     },
+
     {
         id: 2,
         title: "Chicken Ramen",
