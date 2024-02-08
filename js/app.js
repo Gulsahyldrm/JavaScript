@@ -6,6 +6,7 @@ const sectionCenter = document.querySelector(".section-center");
 const categories = menu.reduce((values, items) => {
     if (!values.includes(items.category)) {
       values.push(items.category);
+
     }
     return values;
   },
